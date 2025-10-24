@@ -1,1 +1,0 @@
-This project uses Supabase client; Prisma is not required. If you prefer Prisma, update README and add DATABASE_URL.
